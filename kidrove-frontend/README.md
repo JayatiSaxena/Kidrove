@@ -1,3 +1,14 @@
+# Here are some screenshots showcasing the implemented UI and responsive design of the application.
+
+<img width="3420" height="2062" alt="image" src="https://github.com/user-attachments/assets/8fb37d04-8a50-4206-8351-b4e38401796b" />
+
+<img width="3420" height="2062" alt="image" src="https://github.com/user-attachments/assets/0569b14b-62c2-4a43-90a8-82d280604269" />
+
+<img width="3420" height="2062" alt="image" src="https://github.com/user-attachments/assets/65fe57b0-f8da-4d07-8697-fb76e7157198" />
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
