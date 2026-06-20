@@ -1,5 +1,4 @@
 # Kidrove
-# Kidrove
 URL link: https://kidrove-beta.vercel.app/
 
 Kidrove Workshop Landing Page is a full-stack web application built to showcase a children's workshop and provide a seamless registration experience for parents. The project focuses on creating a modern, responsive, and user-friendly interface while integrating backend functionality for handling registrations.
